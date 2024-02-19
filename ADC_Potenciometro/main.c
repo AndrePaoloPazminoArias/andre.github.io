@@ -90,7 +90,7 @@ void configurarADC(){
 							/* CONFIGURACION REGISTRO ADCSRB */
 	//*******************************************************************************//
 		
-	
+	//Configurando registros
 	//ADTS
 	ADCSRB =	0;
 	
