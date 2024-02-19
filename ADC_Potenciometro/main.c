@@ -84,7 +84,7 @@ void configurarADC(){
 		ADCSRA |= (1<<ADPS1);
 		ADCSRA |= (1<<ADPS2);
 		
-		//ADCSRA |= (1<<ADPS3);
+	
 		
 	//*******************************************************************************//
 							/* CONFIGURACION REGISTRO ADCSRB */
